@@ -3,7 +3,7 @@ Email-to-Wordpress
 
 The current email to wordpress post plugins didn't work the way I needed them to or weren't reliable enough.
 
-This class takes an email and creates a post from it and includes any image attachments and attaches them to the new post.
+This class takes an email and creates a post from it and includes any image attachments in the new post.
 
 Features / Settings
 ===================
